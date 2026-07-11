@@ -1,2 +1,14 @@
-# Roya-Ghazizadeh
-Biotechnology student with a growing interest in bioinformatics, data analysis, and Python. Passionate about applying computational methods to solve biological problems and continuously learning new tools and technologies.
+## Example
+
+Input:
+
+ATGCGTACGTTAGC
+
+Output:
+
+Length: 14  
+A: 3  
+T: 4  
+G: 4  
+C: 3  
+GC Content: 50.0%
